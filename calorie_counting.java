@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Main {
+public class calorie_counting {
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
         int maxCalories = 0;
